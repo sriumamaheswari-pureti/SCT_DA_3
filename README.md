@@ -121,6 +121,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Project Repository
 
-GitHub: 
+GitHub Repository:  
+👉 https://github.com/sriumamaheswari-pureti/SCT_DA_3
