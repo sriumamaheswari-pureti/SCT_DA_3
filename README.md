@@ -1,113 +1,126 @@
-# HR EMPLOYEE ATTRITION DASHBOARD
+
+# 📊 HR Employee Attrition Dashboard
 
 ## 📌 Project Overview
 
-The **HR Employee Attrition Dashboard** is an interactive Power BI dashboard developed to analyze employee attrition trends and identify the key reasons behind employee turnover in an organization.
+Employee attrition is a critical challenge for organizations as it can increase recruitment costs, reduce productivity, and impact overall business performance. Understanding the factors that contribute to employee turnover helps organizations develop effective retention strategies.
 
-This dashboard helps answer the business question:
-
-### **“Why are employees leaving the company?”**
-
-The dashboard provides meaningful insights into employee behavior, job satisfaction, overtime, salary, department-wise attrition, and demographic trends.
+This project presents an interactive **HR Employee Attrition Dashboard** built using **Power BI** to analyze workforce trends and identify key factors influencing employee attrition.
 
 ---
 
-# 🎯 Objectives
+## 🎯 Problem Statement
 
-* Analyze employee attrition patterns
-* Identify factors influencing employee turnover
-* Monitor workforce statistics using KPIs
-* Support HR decision-making with data-driven insights
-* Improve employee retention strategies
+Organizations often struggle to understand why employees leave due to the large volume of HR data spread across different attributes such as job role, department, age group, salary, and overtime status.
 
----
+The objective of this project is to:
 
-# 🛠️ Tools & Technologies Used
-
-* **Power BI**
-* **Power Query**
-* **DAX**
-* **HR Employee Attrition Dataset**
+- Analyze employee attrition patterns
+- Identify high-risk employee groups
+- Discover factors contributing to employee turnover
+- Support data-driven HR decision-making
+- Improve employee retention strategies
 
 ---
 
-# 📊 Dashboard Features
+## 💡 Dashboard Solution
 
-## KPI Cards
+The Power BI dashboard provides an interactive view of employee attrition through various visualizations and KPIs.
 
-The dashboard includes key performance indicators such as:
+Users can:
 
-* Total Employees
-* Attrition Rate
-* Average Salary
-* Employees Left
-
----
-
-## Interactive Visualizations
-
-The dashboard contains:
-
-* Bar Charts
-* Donut Charts
-* Scatter Plot
-* Interactive Filters (Slicers)
+- Monitor overall workforce metrics
+- Analyze attrition by job role
+- Compare attrition across departments
+- Evaluate overtime impact on attrition
+- Study attrition trends across age groups
+- Explore income versus experience relationships
+- Filter data dynamically using slicers
 
 ---
 
-# 🔍 Analysis Performed
+## 📊 Dashboard Features
 
-## Employee Attrition by:
+### KPI Cards
+- Average Salary
+- Attrition Rate
+- Total Employees
+- Employees Left
 
-* Job Satisfaction
-* Department
-* Gender
-* Age Group
-* Overtime
-* Salary & Years at Company
+### Visualizations
 
----
+#### Attrition by Job Role
+Shows which job roles experience the highest employee turnover.
 
-# 🎛️ Filters Available
+#### Attrition by Income vs Experience
+Analyzes the relationship between employee income, experience, and attrition patterns.
 
-Users can dynamically interact with the dashboard using filters for:
+#### Attrition by Department
+Compares attrition rates across departments such as:
+- Research & Development
+- Sales
+- Human Resources
 
-* Education Field
-* Age Group
-* Job Role
-* Department
-* Gender
-* Overtime
+#### Attrition by Overtime
+Displays the impact of overtime work on employee turnover.
 
----
+#### Attrition by Age Group
+Identifies age groups with higher attrition rates.
 
-# 📈 Key Insights
-
-* Employees with lower job satisfaction show higher attrition.
-* Employees working overtime are more likely to leave.
-* Certain departments experience higher employee turnover.
-* Younger employees show comparatively higher attrition.
-* Salary and years at company influence employee retention.
-
----
-
-# 💡 Business Impact
-
-This dashboard helps HR teams:
-
-* Understand attrition trends
-* Improve employee retention strategies
-* Identify high-risk employee groups
-* Make better workforce decisions
+### Interactive Filters
+Users can filter the dashboard by:
+- Education
+- Job Role
+- Department
+- Gender
+- Overtime Status
 
 ---
 
-# ✅ Outcome
+## 🛠️ Tools & Technologies Used
 
-The project successfully provides an interactive and insightful HR analytics dashboard that helps organizations monitor employee attrition and make data-driven HR decisions.
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Visualization
 
 ---
 
-# 👩‍💻 Author
+## 📈 Key Insights
 
-**Pureti Sri Uma Maheswari**
+- Employees working overtime show a higher tendency to leave the organization.
+- Certain job roles experience significantly higher attrition than others.
+- Attrition patterns vary across departments.
+- Younger employees exhibit relatively higher turnover rates.
+- Salary and experience levels influence employee retention trends.
+
+---
+
+## 📂 Repository Contents
+
+```
+HR-Employee-Attrition-Dashboard/
+│
+├── SCT_DA_03.pbix
+├── Dashboard Screenshot.png
+├── README.md
+└── Dataset (if included)
+```
+
+## 🎓 Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+
+- Data Cleaning and Transformation
+- Data Modeling in Power BI
+- Writing DAX Measures
+- Designing Interactive Dashboards
+- HR Analytics and Business Insights
+- Data Storytelling
+
+---
+
+## 🔗 Connect With Me
+
+GitHub: 
